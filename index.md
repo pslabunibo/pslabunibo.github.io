@@ -22,15 +22,15 @@ Oltre ad avere un obiettivo specifico, ogni progetto deve avere un tema/contesto
 ### Il Gruppo
 
 #### Director
-* Prof. [Mirko Viroli|https://www.unibo.it/sitoweb/mirko.viroli]
+* Prof. Mirko Viroli
 
 #### Full Members
-* Prof. [Antonio Natali|]
-* Prof. [Andrea Omicini|]
-* Prof. [Alessandro Ricci|]
-* Prog. [Andrea Roli|]
+* Prof. Antonio Natali
+* Prof. Andrea Omicini
+* Prof. Alessandro Ricci
+* Prog. Andrea Roli
 
-### Fixed-Term Researchers
+#### Fixed-Term Researchers
 
 * Dr. Danilo Pianini
 
