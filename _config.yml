@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Pervasive Software Lab (PSLab)
 logo: https://pslabunibo.github.io/images/pslab_logo.png
 show_downloads: false
-description: A research laboratory of the Computer Science and Engineering Department at the University of Bologna, Italy<br><br><ul><h2>Peoples</h2><br><h3>Director</h3><br> - Prof. Mirko Viroli<br><h3>Full Members</h3> - Prof. Antonio Natali</ul>
+description: A research laboratory of the Computer Science and Engineering Department at the University of Bologna, Italy<br><br><div><h2>Peoples</h2><br><h3>Director</h3><br> - Prof. Mirko Viroli<br><h3>Full Members</h3> - Prof. Antonio Natali</div>
