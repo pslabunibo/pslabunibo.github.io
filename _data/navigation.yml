@@ -1,0 +1,7 @@
+main:
+  - title: "Page 1"
+    url: /page1/
+  - title: "Page 2"
+    url: /page2/
+  - title: "External Link"
+    url: https://google.com
