@@ -1,9 +1,5 @@
 theme: jekyll-theme-minimal
 title: Pervasive Software Lab (PSLab)
-description: -< A research laboratory of the Computer Science and Engineering Department at the University of Bologna, Italy
-
-test
-<b>test</b>
-
+description: A research laboratory of the Computer Science and Engineering Department at the University of Bologna, Italy<b>test</b>
 logo: https://pslabunibo.github.io/images/pslab_logo.png
 show_downloads: false
