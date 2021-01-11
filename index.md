@@ -28,7 +28,7 @@ Oltre ad avere un obiettivo specifico, ogni progetto deve avere un tema/contesto
 * Prof. Antonio Natali
 * Prof. Andrea Omicini
 * Prof. Alessandro Ricci
-* Prog. Andrea Roli
+* Prof. Andrea Roli
 
 #### Fixed-Term Researchers
 
